@@ -1,0 +1,19 @@
+{
+  "name": "fis-postpackager-extras_uri",
+  "version": "0.1.0",
+  "description": "fis 资源定位增强",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiangyuan/fis-postpackager-extras_uri.git"
+  },
+  "keywords": [
+    "fis"
+  ],
+  "author": "jero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiangyuan/fis-postpackager-extras_uri/issues"
+  },
+  "homepage": "https://github.com/jiangyuan/fis-postpackager-extras_uri"
+}
