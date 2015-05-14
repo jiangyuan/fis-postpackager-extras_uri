@@ -30,5 +30,5 @@ HTML 中：
 <meta name="touch_icon" content="fis__extras__uri(img/toucn.png)" />
 
 <!-- 发布后 -->
-<meta name="touch_icon" content="http://9.cdn/baba//img/toucn.png" />
+<meta name="touch_icon" content="http://9.cdn/baba/img/toucn.png" />
 ```
