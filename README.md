@@ -32,3 +32,9 @@ HTML 中：
 <!-- 发布后 -->
 <meta name="touch_icon" content="http://9.cdn/baba/img/toucn.png" />
 ```
+
+## demo 说明
+安装完插件后，切换至 `demo/src` 目录下执行：
+```
+    fis release -d dev [-mD]
+```
