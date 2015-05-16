@@ -2,7 +2,7 @@
 fis 资源定位增强
 
 ## 场景
-fis 可以很好的将 html 中 img, link, script 等的路径做转换，比如：
+fis 可以很好的将 html 中 img, link, script 等的路径在发布的时候做转换，比如：
 ```html
 <!-- 发布前 -->
 <script src="js/main.js"></script>
@@ -10,7 +10,7 @@ fis 可以很好的将 html 中 img, link, script 等的路径做转换，比如
 <script src="http://9.cdn/baba/main.33333.js"></script>
 ```
 
-局限性是仅限有资源的可以定位，下面这种情况是无能为力的：
+局限性是仅限有资源的元素适用，下面这种情况是无能为力的：
 ```html
 <meta name="touch_icon" content="img/toucn.png" />
 ```
@@ -19,7 +19,7 @@ fis 可以很好的将 html 中 img, link, script 等的路径做转换，比如
 
 
 ## 使用
-配置文件：
+配置文件 fis-conf.js：
 ```js
 fis.config.set('modules.postpackager', 'extras_uri');
 ```
