@@ -17,6 +17,10 @@ fis 可以很好的将 html 中 img, link, script 等的路径在发布的时候
 
 本插件就是解决上述问题。
 
+## 安装
+```
+npm i fis-postpackager-extras_uri -g
+```
 
 ## 使用
 配置文件 fis-conf.js：
