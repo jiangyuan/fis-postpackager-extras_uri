@@ -1,3 +1,5 @@
+!!! fis3 建议使用 https://github.com/jiangyuan/fis3-postprocessor-extras_uri
+
 # fis-postpackager-extras_uri
 fis 资源定位增强
 
